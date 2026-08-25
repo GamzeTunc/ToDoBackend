@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GamzeGithub\\ToDoBackend\\ToDoBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5ADA036-B361-4F8C-8A56-AD6727CF403F}|src\\Services\\ToDoService\\ToDoService.DataAccess\\ToDoService.DataAccess.csproj|c:\\gamzegithub\\todobackend\\todobackend\\src\\services\\todoservice\\todoservice.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5ADA036-B361-4F8C-8A56-AD6727CF403F}|src\\Services\\ToDoService\\ToDoService.DataAccess\\ToDoService.DataAccess.csproj|solutionrelative:src\\services\\todoservice\\todoservice.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AB9D76-CB9E-4239-8D8B-C5479BB32B21}|src\\Services\\ToDoService\\ToDoService.Business\\ToDoService.Business.csproj|c:\\gamzegithub\\todobackend\\todobackend\\src\\services\\todoservice\\todoservice.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AB9D76-CB9E-4239-8D8B-C5479BB32B21}|src\\Services\\ToDoService\\ToDoService.Business\\ToDoService.Business.csproj|solutionrelative:src\\services\\todoservice\\todoservice.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48490E01-F3AD-4E17-9440-80FB8F6EE031}|src\\Services\\ToDoService\\ToDoService.Core\\ToDoService.Core.csproj|c:\\gamzegithub\\todobackend\\todobackend\\src\\services\\todoservice\\todoservice.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48490E01-F3AD-4E17-9440-80FB8F6EE031}|src\\Services\\ToDoService\\ToDoService.Core\\ToDoService.Core.csproj|solutionrelative:src\\services\\todoservice\\todoservice.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\GamzeGithub\\ToDoBackend\\ToDoBackend\\src\\Services\\ToDoService\\ToDoService.DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\Services\\ToDoService\\ToDoService.DataAccess\\Class1.cs",
+              "ToolTip": "C:\\GamzeGithub\\ToDoBackend\\ToDoBackend\\src\\Services\\ToDoService\\ToDoService.DataAccess\\Class1.cs",
+              "RelativeToolTip": "src\\Services\\ToDoService\\ToDoService.DataAccess\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T14:46:36.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\GamzeGithub\\ToDoBackend\\ToDoBackend\\src\\Services\\ToDoService\\ToDoService.Business\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\Services\\ToDoService\\ToDoService.Business\\Class1.cs",
+              "ToolTip": "C:\\GamzeGithub\\ToDoBackend\\ToDoBackend\\src\\Services\\ToDoService\\ToDoService.Business\\Class1.cs",
+              "RelativeToolTip": "src\\Services\\ToDoService\\ToDoService.Business\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T14:46:01.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\GamzeGithub\\ToDoBackend\\ToDoBackend\\src\\Services\\ToDoService\\ToDoService.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\Services\\ToDoService\\ToDoService.Core\\Class1.cs",
+              "ToolTip": "C:\\GamzeGithub\\ToDoBackend\\ToDoBackend\\src\\Services\\ToDoService\\ToDoService.Core\\Class1.cs",
+              "RelativeToolTip": "src\\Services\\ToDoService\\ToDoService.Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T14:45:28.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
